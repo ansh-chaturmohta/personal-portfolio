@@ -87,7 +87,7 @@ src/
 
 ## 🚀 Deployment
 
-### Vercel (Recommended)
+### Vercel
 ```bash
 npm run build
 npx vercel --prod
@@ -99,19 +99,9 @@ npm run build
 npm run start
 ```
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 🤝 Contributing
 
 Feel free to fork this project and customize it for your own portfolio!
-
-## 📞 Contact
-
-- Email: ansh@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- GitHub: [Your GitHub](https://github.com/yourusername)
 
 ---
 
